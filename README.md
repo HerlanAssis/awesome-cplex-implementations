@@ -9,6 +9,10 @@
 
 Awesome Cplex Implementations é um `repositório` que permite `a visualização de exemplos` para utilizar como base para `estudos ou outras implementações`.
 
+---
+Esse projeto foi desenvolvido na disciplina de Metaheurística para Problemas de Otimização Combinatória (PPgCC - UERN/UFERSA) ministrada pelos professores Dario Aloise e Fábio Fontes.
+---
+
 ## Projetos
 
 | Problema    | Linguagem |                                                      Repositório                                                       |
