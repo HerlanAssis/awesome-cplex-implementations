@@ -43,6 +43,7 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
 - [@herlanassis](https://github.com/herlanassis)
 - [@wramonbessa](https://github.com/wramonbessa)
 - [@rmaxflo](https://github.com/rmaxflo)
+- [@mahteusz](https://github.com/mahteusz)
 
 ## Contato
 
