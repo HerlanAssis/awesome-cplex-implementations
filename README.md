@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido na disciplina de Metaheurística para Problemas de
 | :---------- | :-------: | :--------------------------------------------------------------------------------------------------------------------: |
 | p-median    |   Julia   | [https://github.com/rmaxflo/p-mediana-with-Julia-and-CPLEX](https://github.com/rmaxflo/p-mediana-with-Julia-and-CPLEX) |
 | p-median    |   Java    |      [https://github.com/wramonbessa/p-median-problem-java](https://github.com/wramonbessa/p-median-problem-java)      |
+| p-median    |    C++    |           [https://github.com/mahteusz/P-Medianas-CPLEX](https://github.com/mahteusz/P-Medianas-CPLEX)                 |
 | p-median    |  Python   |           [https://github.com/HerlanAssis/P-median-problem](https://github.com/HerlanAssis/P-median-problem)           |
 | bin-packing |  Python   |          [https://github.com/HerlanAssis/bin_packing-cplex](https://github.com/HerlanAssis/bin_packing-cplex)          |
 | knapsack    |  Python   |             [https://github.com/HerlanAssis/knapsack-cplex](https://github.com/HerlanAssis/knapsack-cplex)             |
